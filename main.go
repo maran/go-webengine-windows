@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/chai2010/qml"
-	"github.com/maran/qml-browser-test/webengine"
+	"github.com/maran/go-webengine-windows/webengine"
 	"os"
 	"runtime"
 )
