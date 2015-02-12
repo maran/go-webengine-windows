@@ -2,7 +2,7 @@ TEMPLATE = lib
 CONFIG  += dll release
 CONFIG  -= embed_manifest_exe embed_manifest_dll
 QT      += webengine
-TARGET   = go_webengine
+TARGET   = webengine
 
 DESTDIR = $${PWD}
 INCLUDEPATH += .
